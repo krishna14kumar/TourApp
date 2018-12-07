@@ -52,7 +52,7 @@ class Home extends Component {
                 <div className="row">
                     <div className="row2-wrap">
                         {this.renderSecondRowBlock(tropic_count, "fa fa-sun-o secondRowIcon")}
-                        {this.renderSecondRowBlock(trek_count, "fa fa-sun-o secondRowIcon")}
+                        {this.renderSecondRowBlock(trek_count, "fa fa-cloud secondRowIcon")}
                         {this.renderSecondRowBlock(club_count, "fa fa-glass secondRowIcon")}
                     </div>
                 </div>
