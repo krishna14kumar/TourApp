@@ -1,0 +1,45 @@
+
+.form{
+    width: 320px;
+    align-items: center;
+    margin-left: 30vw;
+    margin-top: 20vh;
+}
+label{
+    font-weight: 400;
+    color: white;
+    float: left;
+    margin-bottom: 5px;
+}
+input {
+    width: 320px;
+    padding: 12px 20px;
+    background-color: transparent;
+    border : 3px solid white;
+    color: white;
+    font-weight: 400;
+}
+select{
+    width: 320px;
+    padding: 12px 20px;
+    background-color: transparent;
+    border : 3px solid white;
+    color: white
+}
+select option{
+    color :black
+}
+button{
+    background-color: transparent;
+    border : 3px solid white;
+    color: white;
+    padding: 14px 20px;
+    float: left;
+}
+
+h3{
+    color: white;
+    text-align: left;
+    font-size: 48px;
+    font-weight: 400;
+}

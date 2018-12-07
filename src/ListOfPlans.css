@@ -1,0 +1,20 @@
+.tripTable th{
+    border-bottom: 1px solid white;
+    padding-right: 80px;
+}
+.tableHeader{
+    font-size: 20px;
+}
+.tripTable tr {
+    color: white;
+    font-size: 20px;
+}
+.tripTable td {
+    padding-right: 80px; 
+}
+.tableHeading{
+    margin-left: 10cm;
+}
+.tableWrap{
+    margin-top: 25vh
+}
